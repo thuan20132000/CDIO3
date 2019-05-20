@@ -1,0 +1,17 @@
+#nav-filter #nav-filter-wrapper > ul{
+    list-style-type: none;
+}
+
+#nav-filter #nav-filter-wrapper ul > li{
+    display: inline-block;
+}
+
+
+#route-content-wrapper{
+    
+   
+}
+#route-content-wrapper .route-item-content{
+    padding: 50px 10px;
+    background:repeating-linear-gradient(to bottom,orange,white);
+}
